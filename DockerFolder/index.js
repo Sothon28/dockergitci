@@ -7,4 +7,5 @@ app.get('/user', (req, res) => {
 
 app.listen(5000, () => {
     console.log('Express Server is Running at Port No 5000..');
+    console.log('Express Server is Running at Port No 5000..2nd Action');
 });
